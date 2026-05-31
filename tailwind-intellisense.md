@@ -1,0 +1,1 @@
+- npx -y @laststance/tailwind-suggest-canonical-classes@latest "src/**/*.{tsx,jsx,ts,js,html,vue,astro}"
